@@ -24,6 +24,7 @@
 		FE9D4FA42756A6A9004A311D /* TaskController.xib in Resources */ = {isa = PBXBuildFile; fileRef = FE9D4FA22756A6A9004A311D /* TaskController.xib */; };
 		FE9D4FA82756A9AB004A311D /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE9D4FA72756A9AB004A311D /* BaseViewController.swift */; };
 		FE9D4FAB2756A9ED004A311D /* NSObjectExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE9D4FAA2756A9ED004A311D /* NSObjectExtension.swift */; };
+		FE9D4FAD2756B2F0004A311D /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = FE9D4FAC2756B2F0004A311D /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +66,7 @@
 		FE9D4FA22756A6A9004A311D /* TaskController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TaskController.xib; sourceTree = "<group>"; };
 		FE9D4FA72756A9AB004A311D /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 		FE9D4FAA2756A9ED004A311D /* NSObjectExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSObjectExtension.swift; sourceTree = "<group>"; };
+		FE9D4FAC2756B2F0004A311D /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 		FE9D4F522756821A004A311D /* TodoList */ = {
 			isa = PBXGroup;
 			children = (
+				FE9D4FAC2756B2F0004A311D /* README.md */,
 				FE9D4F532756821A004A311D /* AppDelegate.swift */,
 				FE9D4F552756821A004A311D /* SceneDelegate.swift */,
 				FE9D4F87275687A5004A311D /* Modules */,
@@ -338,6 +341,7 @@
 				FE9D4FA42756A6A9004A311D /* TaskController.xib in Resources */,
 				FE9D4F602756821E004A311D /* LaunchScreen.storyboard in Resources */,
 				FE9D4F942756A587004A311D /* LoginController.xib in Resources */,
+				FE9D4FAD2756B2F0004A311D /* README.md in Resources */,
 				FE9D4F982756A599004A311D /* RegistrationController.xib in Resources */,
 				FE9D4F9C2756A5AA004A311D /* TaskListController.xib in Resources */,
 				FE9D4F5D2756821E004A311D /* Assets.xcassets in Resources */,
