@@ -1,11 +1,11 @@
 # To-do-list
 
 ## About
-This is the very first iOS project for junior iOS Sowftware Engineer. You will learn how to:
-- build responsive application user interface
+It is the very first iOS project for a junior iOS Software Engineer. You will learn how to:
+- build a responsive application user interface
 - interact with remote web server 
 - store data in local storage
-- run application tasks concurently
+- run application tasks concurrently
 - apply modern application architectures 
 - and many more
 
